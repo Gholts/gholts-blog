@@ -1,0 +1,49 @@
+---
+title: 利用SpotDL下載Spotify音樂
+date: 2024-03-05
+categories: [Tutorial, Tools]
+tags: [spotdl, spotify]
+---
+
+## ※[SpotDL項目地址](https://github.com/spotDL/spotify-downloader)
+
+>SpotDL是一個功能強大的Spotify音樂下載工具，支持解析下載Spotify上98%的音樂  
+>而SpotDL的功能有:
+>
+>- 解析下載Spotify音樂
+>- 僅保存 Spotify 的元數據，而不下載任何內容
+>- 更新所提供歌曲檔案的元資料
+
+## 1.安裝Python環境
+
+- 進入[Python](https://www.python.org/downloads/)官網下載安裝包
+
+- 安裝Python時，請確保選擇"新增至PATH"
+
+## 2.安裝SpotDL
+
+- 新建一個AdministratorCMD窗口任務
+
+- 依次執行代碼 `pip install spotdl` `spotdl --download-ffmpeg`
+
+## 3.Enjoy
+
+- 輸入代碼 `spotdl` `spotdl download [spotify單曲鏈接]` 或者 `spotdl download [spotify歌單鏈接]` 即可下載
+
+- 預設下載地址在 ```C:\Users\[你的Windows賬戶名]```
+
+## 4.Advanced
+
+- 預設設定檔在 `C:\Users\[你的Windows賬戶名]\.spotdl\config.json`
+  
+- `output` 是配置預設下載地址
+  
+- `format` 是配置下載音頻格式,例如 MP3,M4A 和 OPUS
+  
+- 你可以透過執行 `spotdl web` 命令來啓動 Web UI，不過要把 `web_use_output_dir` 項設定為true
+  
+- 更多詳細配置可以參考[SpotDL官方文檔](https://github.com/spotDL/spotify-downloader/blob/master/docs/usage.md)
+
+>SpotDL 使用 YouTube 作為音樂下載來源, 此方法用於避免與從 Spotify 下載音樂相關的任何問題  
+>使用者應對自己的行為和潛在的法律後果負責。 SpotDL不支援未經授權下載受版權保護的資料，並且對使用者行為不承擔任何責任
+
