@@ -49,7 +49,7 @@ google_site_verification: # 填寫您的驗證字符串
 # ↑ --------------------------
 # `jekyll-seo-tag` 設置結束
 
-google_analytics:
+google_analytics: G-1K6JYK79VQ
   id: # 填寫您的 Google Analytics ID
 
 goatcounter:
