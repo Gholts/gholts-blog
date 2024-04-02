@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-link
-order: 5
+order: 4
 ---
 
 ### <img src="https://dev.yesmore.cc/og.png" alt="yesmore" width="32" height="32" /> [YESMORE Blog](https://dev.yesmore.cc)
