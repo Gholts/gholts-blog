@@ -84,13 +84,13 @@ tags: [spotx, spicetify, rollback-spotify, spotify]
 - [官方客製化應用程式](https://spicetify.app/docs/advanced-usage/custom-apps)
 
   - [Reddit](https://spicetify.app/docs/advanced-usage/custom-apps#reddit) -在Reddit上抓取Spotify分享鏈接
-  ![Reddit](https://i.imgur.com/MC3tpNZ.png)
+  ![Reddit](https://image.gholts.top/file/5f529797b5fec74ab3ef6.png)
 
   - [New Releases(新發布歌曲)](https://spicetify.app/docs/advanced-usage/custom-apps#new-releases) -總結最喜愛的藝術家、播客的所有新發佈內容
-  ![New Releases](https://i.imgur.com/MP9dTjt.png)
+  ![New Releases](https://image.gholts.top/file/7e8c12d91714d12454576.png)
 
   - [Lyrics Plus(歌詞PLUS)](https://spicetify.app/docs/advanced-usage/custom-apps#lyrics-plus) -從各個歌詞提供者（Musixmatch、Netease、Genius）取得目前曲目的歌詞
-  ![Lyrics Plus](https://i.imgur.com/WtD080A.png)
+  ![Lyrics Plus](https://image.gholts.top/file/4df6263fb7bad14949734.png)
 
 ### 安裝Reddit
 
