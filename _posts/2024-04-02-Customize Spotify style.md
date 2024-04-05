@@ -7,15 +7,15 @@ tags: [spotx, spicetify, rollback-spotify, spotify]
 
 ## ※[Rollback-Spotify項目地址](https://github.com/amd64fox/Rollback-Spotify)
 
->Rollback-Spotify是一個強大的Spotify版本退回工具，可以方便快捷的把Spotify退回到特定版本  
->而Rollback-Spotify有以下功能:
+>Rollback-Spotify是一個強大😱的Spotify版本退回工具，可以方便快捷的把Spotify退回到特定版本  
+>有以下功能:
 >
 >- 退回Spotify版本
 >- 阻止Spotify自動更新
 
 ## ※[Spicetify項目地址](https://github.com/spicetify/spicetify-cli)
 
->Spicetify是一個功能終極強大的Spotify客製化工具,可以高度客製化Spotify的界面，功能  
+>Spicetify是一個功能終極強大😎的Spotify客製化工具,可以高度客製化Spotify的界面  
 >而Spicetify有以下功能:
 >
 >- 客製化Spotify theme
