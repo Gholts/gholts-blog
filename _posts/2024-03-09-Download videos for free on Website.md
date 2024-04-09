@@ -1,5 +1,5 @@
 ---
-title: 利用YT-DLP下載幾乎任何影片
+title: 利用 YT-DLP 下載幾乎任何影片
 date: 2024-03-09
 categories: [Tutorial, Tools]
 tags: [yt-dlp]
@@ -7,8 +7,8 @@ tags: [yt-dlp]
 
 ## ※[YT-DLP 項目地址](https://github.com/yt-dlp/yt-dlp)
 
->YT-dlp 是一個功能強大的影片下載工具，支持解析下載網路上 90% 的影片網站  
->而 YT-dlp 主要功能有:
+>YT-dlp 是一個功能強大的影片下載工具，支持解析下載網路上 90% 的影片網站。  
+>YT-dlp 主要功能有:
 >
 >- 解析下載影片
 >- 客製化影片格式和碼率
@@ -19,15 +19,15 @@ tags: [yt-dlp]
 >- 下載時間範圍
 >- More...
 
-## 1.安裝Python環境
+## 1.安裝 Python 環境
 
-1. 進入[Python](https://www.python.org/downloads/)官網下載安裝包
+1. 進入 [Python](https://www.python.org/downloads/) 官網下載安裝包
 
 2. 安裝 Python 時，請確保選擇"新增至 PATH"
 
-## 2.安裝FFmpeg
+## 2.安裝 FFmpeg
 
-1. 進入[FFmpeg](https://www.ffmpeg.org)官網下載安裝包
+1. 進入 [FFmpeg](https://www.ffmpeg.org) 官網下載安裝包
 
 2. 按照提示進行安裝
 
@@ -51,7 +51,7 @@ tags: [yt-dlp]
 
 1. 輸入 `yt-dlp` `yt-dlp [影片鏈接]` 即可下載
 
-2. 輸入 `yt-dlp -f ‘bv[ext=mp4]+ba[ext=m4a]’ --embed-metadata --merge-output-format mp4 [影片鏈接]` 即可下載最佳mp4影片+最佳m4a音頻格式並合成mp4
+2. 輸入 `yt-dlp -f ‘bv[ext=mp4]+ba[ext=m4a]’ --embed-metadata --merge-output-format mp4 [影片鏈接]` 即可下載最佳 mp4 影片+最佳 m4a 音頻格式並合成 mp4
 
 ## 5.Advanced
 
@@ -59,4 +59,4 @@ tags: [yt-dlp]
 
 - 如需指定下載地址,可以使用 `-o` 或 `--output` 參數,例如 `yt-dlp [影片鏈接] -o "F:/%(title)s.mp4"`
 
-- 更多詳細配置可以參考[YT-DLP 官方文檔](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#usage-and-options)
+- 更多詳細配置可以參考 [YT-DLP 官方文檔](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#usage-and-options)
