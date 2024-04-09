@@ -1,5 +1,5 @@
 ---
-title: CFworker Proxy免費搭建
+title: CFworker Proxy 免費搭建
 date: 2024-02-12
 categories: [Tutorial, Proxy]
 tags: [proxy]
