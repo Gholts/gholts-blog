@@ -5,7 +5,7 @@ categories: [Tutorial, Tools]
 tags: [spotx, spotify]
 ---
 
-## ※[SpotX 項目地址](https://github.com/SpotX-Official/SpotX)
+## ※ [SpotX 項目地址](https://github.com/SpotX-Official/SpotX)
 
 >SpotX 是一個功能強大的 Spotify 客製化工具，同時還兼容安裝 Spicetify 用於客製化 Spotify 界面和功能，SpotX 就是這一類軟體中的最優解。  
 >SpotX 有以下功能:
