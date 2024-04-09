@@ -17,9 +17,9 @@ tags: [proxy]
 
 ## 1.創建 cloudflare 賬號
 
-1. 進入 [cloudflare](https://dash.cloudflare.com/sign-up)注冊賬戶(有賬戶的跳過這一步)
+1. 進入 [cloudflare](https://dash.cloudflare.com/sign-up) 注冊賬戶(有賬戶的跳過這一步)
 
-## 2.創建 worker
+## 2.創建 Worker
 
 1. 點擊進入側邊欄的 Workers & Pages
 
@@ -33,17 +33,17 @@ tags: [proxy]
 
 5. 最後點擊 Edit code
 
-6. 這樣就完成了 worker 的創建
+6. 這樣就完成了 Worker 的創建
 
-## 3.配置 worker 内容
+## 3.配置 Worker 内容
 
-1. 打開[EDtunel Worker.js](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js)檔案
+1. 打開 [EDtunel Worker.js](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js) 檔案
 
 2. 複製全選 js 檔案裏的内容
 
-3. 返回你剛才創建的 worker 編輯界面
+3. 返回你剛才創建的 Worker 編輯界面
 
-4. 刪除默認文檔 worker.js 中的全部文本,將剛才複製的内容粘貼上去
+4. 刪除默認文檔 Worker.js 中的全部文本,將剛才複製的内容粘貼上去
 
 5. 然後回到頂部,找到 `let userID =` 這行代碼,將等號後面單引號裏的内容替換成新的 [uuid](https://www.uuidgenerator.net/version4) ,複製到記事本備用
 
