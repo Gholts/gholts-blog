@@ -1,5 +1,5 @@
 ---
-title: 利用SpotDL下載Spotify音樂
+title: 利用 SpotDL 下載 Spotify 音樂
 date: 2024-03-05
 categories: [Tutorial, Tools]
 tags: [spotdl, spotify]
@@ -40,7 +40,7 @@ tags: [spotdl, spotify]
 
 - `format` 是配置下載音頻格式,例如 MP3,M4A 和 OPUS
 
-- 你可以透過執行 `spotdl web` 命令來啓動 Web UI，不過要把 `web_use_output_dir` 項設定為true
+- 你可以透過執行 `spotdl web` 命令來啓動 Web UI，不過要把 `web_use_output_dir` 項設定為 true
 
 - 更多詳細配置可以參考 [SpotDL 官方文檔](https://github.com/spotDL/spotify-downloader/blob/master/docs/usage.md)
 
