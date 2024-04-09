@@ -5,7 +5,7 @@ categories: [Tutorial, Tools]
 tags: [spotdl, spotify]
 ---
 
-## ※[SpotDL 項目地址](https://github.com/spotDL/spotify-downloader)
+## ※ [SpotDL 項目地址](https://github.com/spotDL/spotify-downloader)
 
 >SpotDL 是一個功能強大的 Spotify 音樂下載工具，支持解析下載 Spotify 上 99% 的音樂。  
 >SpotDL 的功能有:
