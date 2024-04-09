@@ -20,9 +20,9 @@ tags: [spotx, spotify]
 
 ## 1.安裝 Spotify
 
-1. 下載[Spotify 安裝包](https://download.scdn.co/SpotifySetup.exe)安裝即可
+1. 下載 [Spotify 安裝包](https://download.scdn.co/SpotifySetup.exe)安裝即可
 
->千萬不要安裝 Microsoft store的版本!!!
+>千萬不要安裝 Microsoft store 的版本!!!
 
 ## 2.安裝 SpotX
 
