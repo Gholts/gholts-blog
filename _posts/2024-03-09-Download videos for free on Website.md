@@ -5,7 +5,7 @@ categories: [Tutorial, Tools]
 tags: [yt-dlp]
 ---
 
-## ※[YT-DLP 項目地址](https://github.com/yt-dlp/yt-dlp)
+## ※ [YT-DLP 項目地址](https://github.com/yt-dlp/yt-dlp)
 
 >YT-dlp 是一個功能強大的影片下載工具，支持解析下載網路上 90% 的影片網站。  
 >YT-dlp 主要功能有:
