@@ -8,7 +8,7 @@ tags: [proxy]
 ## ※[EDtunel 項目地址](https://github.com/3Kmfi6HP/EDtunnel)
 
 >CFworker 是 cloudflare 推出的功能強大的容器，EDtunel 項目正是利用了 CFworker 的特性，使其成爲 VLESS 節點。  
->CFworker節點的特性有:
+>CFworker 節點的特性有:
 >
 >- 可自訂落地 IP
 >- 解鎖 OpenAI
