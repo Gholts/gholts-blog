@@ -16,32 +16,32 @@ tags: [spotdl, spotify]
 
 ## 1.安裝 Python 環境
 
-- 進入[Python](https://www.python.org/downloads/)官網下載安裝包
+1. 進入[Python](https://www.python.org/downloads/)官網下載安裝包
 
-- 安裝 Python 時，請確保選擇"新增至 PATH"
+2. 安裝 Python 時，請確保選擇"新增至 PATH"
 
 ## 2.安裝 SpotDL
 
-- 新建一個 AdministratorCMD 窗口任務
+1. 新建一個 AdministratorCMD 窗口任務
 
-- 依次執行代碼 `pip install spotdl` `spotdl --download-ffmpeg`
+2. 依次執行代碼 `pip install spotdl` `spotdl --download-ffmpeg`
 
 ## 3.Enjoy
 
-- 輸入代碼 `spotdl` `spotdl download [spotify單曲鏈接]` 或者 `spotdl download [spotify歌單鏈接]` 即可下載
+1. 輸入代碼 `spotdl` `spotdl download [spotify單曲鏈接]` 或者 `spotdl download [spotify歌單鏈接]` 即可下載
 
-- 預設下載地址在 ```C:\Users\[你的Windows賬戶名]```
+2. 預設下載地址在 ```C:\Users\[你的Windows賬戶名]```
 
 ## 4.Advanced
 
-- 預設設定檔在 `C:\Users\[你的Windows賬戶名]\.spotdl\config.json`
-  
-- `output` 是配置預設下載地址
-  
-- `format` 是配置下載音頻格式,例如 MP3,M4A 和 OPUS
-  
-- 你可以透過執行 `spotdl web` 命令來啓動 Web UI，不過要把 `web_use_output_dir` 項設定為true
-  
+1. 預設設定檔在 `C:\Users\[你的Windows賬戶名]\.spotdl\config.json`
+
+2. `output` 是配置預設下載地址
+
+3. `format` 是配置下載音頻格式,例如 MP3,M4A 和 OPUS
+
+4. 你可以透過執行 `spotdl web` 命令來啓動 Web UI，不過要把 `web_use_output_dir` 項設定為true
+
 - 更多詳細配置可以參考[SpotDL 官方文檔](https://github.com/spotDL/spotify-downloader/blob/master/docs/usage.md)
 
 >SpotDL 使用 YouTube 作為音樂下載來源, 此方法用於避免與從 Spotify 下載音樂相關的任何問題。  
