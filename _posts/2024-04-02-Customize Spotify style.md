@@ -47,7 +47,7 @@ tags: [spotx, spicetify, rollback-spotify, spotify]
 
 ## 3.安裝 Spicetify 主題
 
-1. 主題倉庫:
+- ### 主題倉庫:
 
     - [Spicetify 官方主題](https://github.com/spicetify/spicetify-themes) -更好的兼容性和更多的高級配置
 
