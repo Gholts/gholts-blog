@@ -56,3 +56,6 @@ tags: [spotx, spotify]
 
 - 更多[安裝參數](https://github.com/SpotX-Official/SpotX/discussions/60)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI4MTM2ODM0MV19
+-->
