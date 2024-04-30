@@ -125,3 +125,6 @@ rmdir -r -fo $env:LOCALAPPDATA\spicetify
 - 更多擴充和客製化應用程式可以在側邊欄 `MarketPlace` 中找到
 
 - 如果你是開發者，想要編寫更多擴充和客製化應用程式，可以在 [Spicetify Development](https://spicetify.app/docs/development) 中找到更多
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MDY4OTExMDldfQ==
+-->
