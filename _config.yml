@@ -95,7 +95,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus 選項 › https://giscus.app
   giscus:
-    repo: Gholts/Gholts.github.io # <gh-username>/<repo>
+    repo: Gholts/gholts-blog # <gh-username>/<repo>
     repo_id: R_kgDOLiLeow
     category: Giscus chat
     category_id: DIC_kwDOLiLeo84CeK6x
