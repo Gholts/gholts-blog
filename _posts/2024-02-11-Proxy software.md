@@ -12,6 +12,7 @@ tags: [proxy]
 >- 目前還在持續更新
 >- 性能突出或功能突出
 >- 界面能看
+{: .prompt-tip }
 
 ### Android
 
