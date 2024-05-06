@@ -62,6 +62,5 @@ tags: [proxy]
 
 5. 這時候運行代理,打開 [Google](https://www.google.com/) 測試是否成功.如果失敗,請確保每一步都嚴格按照教程操作.
 
->### tips
 >CFworker Proxy 的具體速度取決於你的**物理位置**和**運營商**,有些地區的運營商也可能會**阻斷** cloudflare 的服務,具體使用情況取決於**個人使用環境**.
 {: .prompt-tip }
