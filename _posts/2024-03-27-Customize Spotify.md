@@ -17,12 +17,14 @@ tags: [spotx, spotify]
 >- 啟動更多實驗性功能
 >- 消除從右到左的 CSS 規則以進行簡化，並執行程式碼精簡
 >- 向 Spotify 開發人員停用哨兵的控制台日誌/錯誤/警告訊息，停止使用者互動日誌記錄
+{: .prompt-info }
 
 ## 1.安裝 Spotify
 
 1. 下載 [Spotify 安裝包](https://download.scdn.co/SpotifySetup.exe)安裝即可
 
 >千萬不要安裝 Microsoft store 的版本!!!
+{: .prompt-warning }
 
 ## 2.安裝 SpotX
 
@@ -35,8 +37,10 @@ tags: [spotx, spotify]
 4. 根據個人需求選擇 [Y/N] 即可
 
 >Y 即 Yes，N 即 No
+{: .prompt-tip }
 
 >建議阻止 Spotify 自動更新，因爲 Spotify 官方的更新只是簡單的覆蓋，會導致你的 SpotX 失效，想要恢復很簡單，重新安裝 SpotX 即可
+{: .prompt-tip }
 
 ## 3.Enjoy
 
@@ -52,7 +56,7 @@ tags: [spotx, spotify]
 
 ## 5.Advanced
 
-- 一些相關[SpotX FAQ](https://telegra.ph/SpotX-FAQ-09-19)
+- 一些相關 [SpotX FAQ](https://telegra.ph/SpotX-FAQ-09-19)
 
 - 更多[安裝參數](https://github.com/SpotX-Official/SpotX/discussions/60)
 
