@@ -10,6 +10,8 @@ order: 4
 
 ### <img src="https://home.buzzchat.top/images/icon/logo.png" alt="buzz" width="36" height="36" /> [BUZZ Blog](https://blog.buzzchat.top/)
 
+### <img src="https://www.luckyzh.cn/avatar.jpg" alt="luckyzh" width="34" height="34" /> [luckyzh舊夢 Blog](https://www.luckyzh.cn/)
+
 ---
 
 ##  申請 Link
