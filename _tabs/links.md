@@ -33,6 +33,6 @@ order: 4
 
 ### 申請管道
 
-- Gholtsmxv@Gholts.top
 - Twitter/X 私信
+- Gholtsmxv@Gholts.top
 - [LINUX DO 話題](https://linux.do/t/topic/75652)
