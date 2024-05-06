@@ -14,6 +14,7 @@ tags: [proxy]
 >- 解鎖 OpenAI
 >- 解鎖 Netflix
 >- IP 不固定
+{: .prompt-info }
 
 ## 1.創建 cloudflare 賬號
 
@@ -63,3 +64,4 @@ tags: [proxy]
 
 >### tips
 >CFworker Proxy 的具體速度取決於你的**物理位置**和**運營商**,有些地區的運營商也可能會**阻斷** cloudflare 的服務,具體使用情況取決於**個人使用環境**.
+{: .prompt-tip }
