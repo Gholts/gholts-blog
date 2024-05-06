@@ -58,7 +58,7 @@ tags: [proxy]
 
 3. 根據你需要的訂閲鏈接導入對應的[代理軟件](https://gholtsmxv.github.io/Application-proxy/)
 
-4. 導入後打開編輯界面,關閉 tls ,把位址一項改爲 japan.com ,端口改爲 8880 ,保存
+4. 導入後打開編輯界面,關閉 tls ,把位址一項改爲 `icook.hk` 或 `www.visa.com.sg` ,端口改爲 80 或 8880 ,保存
 
 5. 這時候運行代理,打開 [Google](https://www.google.com/) 測試是否成功.如果失敗,請確保每一步都嚴格按照教程操作.
 
