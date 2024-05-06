@@ -12,6 +12,7 @@ tags: [spotx, spicetify, rollback-spotify, spotify]
 >
 >- 退回 Spotify 版本
 >- 阻止 Spotify 自動更新
+{: .prompt-info }
 
 ## ※ [Spicetify 項目地址](https://github.com/spicetify/spicetify-cli)
 
@@ -22,6 +23,7 @@ tags: [spotx, spicetify, rollback-spotify, spotify]
 >- 客製化 Spotify 功能
 >- 增加更多擴充
 >- 增加 MarketPlace -更多的擴充和客製化應用程式
+{: .prompt-info }
 
 ## 1.事前準備
 
@@ -54,6 +56,7 @@ tags: [spotx, spicetify, rollback-spotify, spotify]
     - [Comfy 主題](https://github.com/Comfy-Themes/Spicetify) -更簡單的操作和更多種類的預設 skins
 
     >我個人使用的就是 Comfy 主題，簡單上手，有圖形化的客製化界面，定製實時生效
+    {: .prompt-tip }
 
 - ### 安裝 Spicetify 官方主題
 
@@ -83,13 +86,13 @@ tags: [spotx, spicetify, rollback-spotify, spotify]
 
 - ### [官方客製化應用程式](https://spicetify.app/docs/advanced-usage/custom-apps)
 
-    - [Reddit](https://spicetify.app/docs/advanced-usage/custom-apps#reddit) -在 Reddit 上抓取 Spotify 分享鏈接
+    - [Reddit](https://spicetify.app/docs/advanced-usage/custom-apps#reddit) - 在 Reddit 上抓取 Spotify 分享鏈接
   ![Reddit](https://image.gholts.top/file/5f529797b5fec74ab3ef6.png)
 
-    - [New Releases (新發布歌曲)](https://spicetify.app/docs/advanced-usage/custom-apps#new-releases) -總結最喜愛的藝術家、播客的所有新發佈內容
+    - [New Releases (新發布歌曲)](https://spicetify.app/docs/advanced-usage/custom-apps#new-releases) - 總結最喜愛的藝術家、播客的所有新發佈內容
   ![New Releases](https://image.gholts.top/file/7e8c12d91714d12454576.png)
 
-    - [Lyrics Plus (歌詞 PLUS)](https://spicetify.app/docs/advanced-usage/custom-apps#lyrics-plus) -從各個歌詞提供者 (Musixmatch、Netease、Genius) 取得目前曲目的歌詞
+    - [Lyrics Plus (歌詞 PLUS)](https://spicetify.app/docs/advanced-usage/custom-apps#lyrics-plus) - 從各個歌詞提供者 (Musixmatch、Netease、Genius) 取得目前曲目的歌詞
   ![Lyrics Plus](https://image.gholts.top/file/4df6263fb7bad14949734.png)
 
 - ### 安裝 Reddit
@@ -104,7 +107,7 @@ tags: [spotx, spicetify, rollback-spotify, spotify]
 
 2. 等待執行完成後再次重啓 Spotify 即可生效
 
-- ### 安裝 Lyrics Plus (歌詞PLUS)
+- ### 安裝 Lyrics Plus (歌詞 PLUS)
 
 1. 在 PowerShell 執行 `spicetify config custom_apps lyrics-plus` `spicetify apply`
 
