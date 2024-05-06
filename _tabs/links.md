@@ -12,9 +12,9 @@ order: 4
 
 ---
 
-##  申請Link
+##  申請 Link
 
-### 申請Link前必讀
+### 申請 Link 前必讀
 
 - 若審批通過後移除本站鏈接，本站也將移除友鏈
 
@@ -23,8 +23,6 @@ order: 4
 - 確保您的網站沒有過多的廣告、無惡意軟體、腳本。且轉載文章須註明出處
 
 - 確保網站可以以 HTTPS 存取
-
-- 您需要有自己的獨立域名，暫且不同意公有子域名或免費域名的友鏈申請 (如 github.io, vercel.app, eu.org, js.cool, .tk, .ml, .cf 等)
 
 ### 申請格式
 ```
@@ -37,3 +35,4 @@ order: 4
 
 - Gholtsmxv@Gholts.top
 - Twitter/X 私信
+- [LINUX DO 話題](https://linux.do/t/topic/75652)
