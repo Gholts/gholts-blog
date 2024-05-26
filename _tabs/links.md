@@ -10,7 +10,7 @@ order: 4
 | [LAOGOU Blog](https://www.laogou666.com/)      | [laogou](https://github.com/laogou717)   |
 | [BUZZ Blog](https://blog.buzzchat.top/)        | [buzz](https://github.com/BDTA-zky)      |
 | [Luckyzh Blog](https://www.luckyzh.cn/)        | [hai-zou](https://github.com/hai-zou)    |
-| [COOLCHENG Blog](https://www.mojiacheng.cn/)   | [coolcheng](https://www.mojiacheng.cn/)  |
+| [Coolcheng Blog](https://www.mojiacheng.cn/)   | [coolcheng](https://www.mojiacheng.cn/)  |
 
 
 
