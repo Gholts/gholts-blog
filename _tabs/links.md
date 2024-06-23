@@ -6,11 +6,11 @@ order: 4
 
 | Blog                                           | Blogger                                  |
 | :--------------------------------------------- | :--------------------------------------- |
-| [YESMORE Blog](https://dev.yesmore.cc)         | [yesmoree](https://twitter.com/yesmoree) |
+| [Oiov Blog](https://blog.oiov.dev/)            | [yesmoree](https://twitter.com/yesmoree) |
 | [LAOGOU Blog](https://www.laogou666.com/)      | [laogou](https://github.com/laogou717)   |
 | [BUZZ Blog](https://blog.buzzchat.top/)        | [buzz](https://github.com/BDTA-zky)      |
 | [Luckyzh Blog](https://www.luckyzh.cn/)        | [hai-zou](https://github.com/hai-zou)    |
-| [Coolcheng Blog](https://www.mojiacheng.cn/)   | [coolcheng](https://www.mojiacheng.cn/)  |
+| [CoolCheng Blog](https://www.coolcheng.cn/)    | [coolcheng](https://www.coolcheng.cn/)  |
 
 
 
