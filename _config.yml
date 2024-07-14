@@ -96,9 +96,9 @@ comments:
   # Giscus 選項 › https://giscus.app
   giscus:
     repo: Gholts/gholts-blog # <gh-username>/<repo>
-    repo_id: R_kgDOLiLeow
+    repo_id: R_kgDOLon7qQ
     category: Giscus chat
-    category_id: DIC_kwDOLiLeo84CeK6x
+    category_id: DIC_kwDOLon7qc4CeZRU
     mapping: pathname # 可選，默認為 'pathname'
     input_position: top # 可選，默認為 'bottom'
     lang: zh-TW # 可選，默認為 `site.lang` 的值
