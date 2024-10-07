@@ -41,4 +41,3 @@ order: 4
 
 - Gholtsmxv@Gholts.top
 - [Telegram 私信](https://t.me/Gholts_bot)
-- [LINUX DO 話題](https://linux.do/t/topic/75652)
