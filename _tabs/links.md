@@ -7,9 +7,8 @@ order: 4
 | Blog                                           | Blogger                                  |
 | :--------------------------------------------- | :--------------------------------------- |
 | [Oiov Blog](https://blog.oiov.dev/)            | [yesmoree](https://twitter.com/yesmoree) |
-| [LAOGOU Blog](https://www.laogou666.com/)      | [laogou](https://github.com/laogou717)   |
 | [BUZZ Blog](https://blog.buzzchat.top/)        | [buzz](https://github.com/BDTA-zky)      |
-| [Luckyzh Blog](https://blog.izou.top/)         | [hai-zou](https://github.com/hai-zou)    |
+| [旧梦 Blog](https://blog.izou.top/)            | [hai-zou](https://github.com/hai-zou)    |
 | [CoolCheng Blog](https://www.coolcheng.cn/)    | [coolcheng](https://www.coolcheng.cn/)   |
 
 
