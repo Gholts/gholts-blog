@@ -1,7 +1,7 @@
 ---
 title: Sleep better & Dopamine detox
 date: 2024-10-30
-categories: [Self, Mind]
+categories: [Mind]
 tags: [selfhelp]
 ---
 ## Fix Sleep Schedule
