@@ -11,15 +11,15 @@ tags: [proxy, theme]
 <table>
 <tr>
  <td>png</td>
- <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/main/icon-flat-colorful/common.png" width="50px"></td>
- <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/main/icon-flat-colorful/sysproxy.png" width="50px"></td>
- <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/main/icon-flat-colorful/tun.png" width="50px"></td>
+ <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/main/icon-flat-colorful/common.png" alt="common" width="50px"></td>
+ <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/main/icon-flat-colorful/sysproxy.png" alt="sysproxy" width="50px"></td>
+ <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/main/icon-flat-colorful/tun.png" alt="tun" width="50px"></td>
 </tr>
 <tr>
  <td>ico</td>
- <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/refs/heads/main/icon-flat-colorful/common.ico" width="50px"></td>
- <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/refs/heads/main/icon-flat-colorful/sysproxy.ico" width="50px"></td>
- <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/refs/heads/main/icon-flat-colorful/tun.ico" width="50px"></td>
+ <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/refs/heads/main/icon-flat-colorful/common.ico" alt="commonico" width="50px"></td>
+ <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/refs/heads/main/icon-flat-colorful/sysproxy.ico" alt="sysproxyico" width="50px"></td>
+ <td align="center"><img src="https://raw.githubusercontent.com/Gholts/Clash-verge-theme/refs/heads/main/icon-flat-colorful/tun.ico" alt="tunico" width="50px"></td>
 </tr>
 </table>
 
