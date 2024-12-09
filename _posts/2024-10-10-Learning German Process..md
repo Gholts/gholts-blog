@@ -1,7 +1,7 @@
 ---
 title: 德語學習流程
 date: 2024-10-10
-categories: [Learn, Language]
+categories: [Notes]
 tags: [learn]
 ---
 ## 🟡 學習必備 APP
