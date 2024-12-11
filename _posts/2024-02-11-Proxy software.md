@@ -21,11 +21,11 @@ tags: [proxy]
 
 - [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest)
 
-- [v2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang&pcampaignid=web_share)
+- [v2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
 
-- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard&pcampaignid=web_share)
+- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 
-- [Hiddify Next](https://play.google.com/store/apps/details?id=app.hiddify.com&pcampaignid=web_share)
+- [Hiddify Next](https://play.google.com/store/apps/details?id=app.hiddify.com)
 
 - [Clash for Flutter](https://github.com/mapleafgo/clash-for-flutter/releases/latest)
 
