@@ -19,7 +19,7 @@ tags: [proxy]
 
 - [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest)
 
-- [NekoBox For Android](https://play.google.com/store/apps/details?id=moe.nb4a&pcampaignid=web_share)
+- [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest)
 
 - [v2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang&pcampaignid=web_share)
 
