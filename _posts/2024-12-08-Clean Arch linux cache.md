@@ -32,3 +32,10 @@ paru -Scc
 ```bash
 paru -Rns $(paru -Qtdq)
 ```
+
+## Remove packages and dependencies
+
+```bash
+paru -Rs <package_name>
+```
+
