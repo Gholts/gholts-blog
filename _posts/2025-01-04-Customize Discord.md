@@ -23,7 +23,7 @@ Vencord 不但安裝時就內置了大多數最流行的 Plugins，還支持 Ven
 
 ## 開始你的客製化之旅
 
-  - 進入 Discord 使用者設定，就會看到多出了 Vencord 一欄，接下來你的大部分操作都會在這裏工作 <p><img src="https://image.gholts.top/20250104115730561.png" alt="Vencord" align="left">&nbsp;<img src="https://image.gholts.top/20250104120040321.png" alt="Plugins" width="85px"></p>
+  - 進入 Discord 使用者設定，就會看到多出了 Vencord 一欄，接下來你的大部分操作都會在這裏工作 <img src="https://image.gholts.top/20250104115730561.png" alt="Vencord" align="left">&nbsp;<img src="https://image.gholts.top/20250104120040321.png" alt="Plugins" width="85px">
 
 先進入 Plugins 板塊，這裏預裝了超級多的 Plugins，你可以選擇你需要的選擇開啓並配置，我把我啓用的放在上面吧。  
 我最常用的就是 Slient Typing 和 FakeNitro。 Slient Typing 顧名思義就是可以控制你的「正在輸入」狀態他人是否可見，開啓了這個 Plugin 就可以在 ~~別人眼中實現一秒10條訊息~~ 別人不知道時突然插入幾句。而 FakeNitro 一看名字就知道不怎麼 ~~合法~~ 了，我主要是用來發一些 stickers 和頻道 emojis。
