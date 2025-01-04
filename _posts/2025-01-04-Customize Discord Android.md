@@ -4,7 +4,7 @@ date: 2025-01-04
 categories: [Tutorial, Tools]
 tags: [discord]
 image:
-  path: /assets/img/Aliucord.png
+  path: /assets/img/Aliucord.webp
   alt: Aliucord logo
 ---
 
