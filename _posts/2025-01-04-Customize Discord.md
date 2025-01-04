@@ -36,7 +36,7 @@ Vencord 不但安裝時就內置了大多數最流行的 Plugins，還支持 Ven
 
 #### 我先用前者舉例如何安裝
 
-  - 以這個 [Theme](https://betterdiscord.app/theme/midnight) 舉例，進入頁面後點擊下載 ![](https://image.gholts.top/20250104124402670.png)，你會得到一個 `.css` 文件
+  - 以這個 [Theme](https://betterdiscord.app/theme/midnight) 舉例，進入頁面後點擊下載，你會得到一個 `.css` 文件 ![](https://image.gholts.top/20250104124402670.png)
   - 進入 Discord 使用者設定中的 Themes 板塊，點擊 Open Themes Folder ![](https://image.gholts.top/20250104124659339.png)
   - 進入 themes 文件夾，將剛剛下載到的 `.css` 文件移動到這裡
   - 回到 Discord，你就會發現多出了一個主題，啓用！
