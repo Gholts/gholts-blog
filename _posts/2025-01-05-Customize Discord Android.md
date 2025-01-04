@@ -1,6 +1,6 @@
 ---
 title: 客製化 Discord [ Android ]
-date: 2025-01-04
+date: 2025-01-05
 categories: [Tutorial, Tools]
 tags: [discord]
 image:
