@@ -52,7 +52,7 @@ tags: [yt-dlp]
 
 1. 輸入 `yt-dlp` `yt-dlp [影片鏈接]` 即可下載
 
-2. 輸入 `yt-dlp -f ‘bv[ext=mp4]+ba[ext=m4a]’ --embed-metadata --merge-output-format mp4 [影片鏈接]` 即可下載最佳 mp4 影片+最佳 m4a 音頻格式並合成 mp4
+2. 輸入 `yt-dlp -f 'bv[ext=mp4]+ba[ext=m4a]' --embed-metadata --merge-output-format mp4 [影片鏈接]` 即可下載最佳 mp4 影片+最佳 m4a 音頻格式並合成 mp4
 
 ## 5.Advanced
 
