@@ -26,9 +26,9 @@ Vencord 不但安裝時就內置了大多數最流行的 Plugins，還支持 Ven
   - 進入 Discord 使用者設定，就會看到多出了 Vencord 一欄，接下來你的大部分操作都會在這裏工作 <img src="https://image.gholts.top/20250104115730561.png" alt="Vencord" align="left">&nbsp;<img src="https://image.gholts.top/20250104120040321.png" alt="Plugins" width="85px">
 
 先進入 Plugins 板塊，這裏預裝了超級多的 Plugins，你可以選擇你需要的選擇開啓並配置，我把我啓用的放在上面吧。  
-我最常用的就是 Slient Typing 和 FakeNitro。 Slient Typing 顧名思義就是可以控制你的「正在輸入」狀態他人是否可見，開啓了這個 Plugin 就可以在 ~~別人眼中實現一秒10條訊息~~ 別人不知道時突然插入幾句。而 FakeNitro 一看名字就知道不怎麼 ~~合法~~ 了，我主要是用來發一些 stickers 和頻道 emojis。
+我最常用的就是 Slient Typing 和 FakeNitro。Slient Typing 顧名思義就是可以控制你的「正在輸入」狀態他人是否可見，開啓了這個 Plugin 就可以在 ~~別人眼中實現一秒 10 條訊息~~ 別人不知道時突然插入幾句。而 FakeNitro 一看名字就知道不怎麼 ~~合法~~ 了，我主要是用來發一些 stickers 和頻道 emojis。
 
->免責聲明： 不推薦任何違反 discord tos 的行爲，只是分享軟件工具內容，僅提供交流和學習爲目的的使用，違反 tos 的後果自行承擔
+>免責聲明：不推薦任何違反 discord tos 的行爲，只是分享軟件工具內容，僅提供交流和學習爲目的的使用，違反 tos 的後果自行承擔
 
 ## 進一步的美化它
 
@@ -62,4 +62,4 @@ Vencord 不但安裝時就內置了大多數最流行的 Plugins，還支持 Ven
 ## 最後
 
 Vencord 是一個強大的配置增強工具，它不僅僅只有桌面端，還有對應的移動端（Android），下一篇 Blog 會詳細說明。  
-提前說一下移動端（Android）安裝即可用，無需 root 設備或使用 shizuku 等工具提權，如果想要自己研究下載安裝，可以前往 [Github](https://github.com/Aliucord/Aliucord) 倉庫自行探索
+提前說一下移動端（Android）安裝即可用，無需 root 設備或使用 shizuku 等工具提權，如果想要自己研究下載安裝，可以前往 [Github](https://github.com/Aliucord/Aliucord) 倉庫自行探索。

@@ -17,16 +17,16 @@ Discord 不止電腦端需要優化，手機端也可以優化，我曾經用過
 流程和別的 Client 安裝流程大體相同，我以下就快速過一下流程
 
   - 進入 [Aliucord](https://github.com/Aliucord/Aliucord/releases/latest) 下載頁面下載 Installer 安裝包並安裝
-  - 「可選」可點擊右上角進入設定選擇是否開啓 Aliucord 風格圖標 （左圖）
+  - 「可選」可點擊右上角進入設定選擇是否開啓 Aliucord 風格圖標（左圖）
 
 <img src="https://image.gholts.top/Aliucord-home.png" alt="settings" width="185px" align="left">&nbsp;<img src="https://image.gholts.top/Aliucord-settings.png" alt="home" width="185px">
 
-  - 回到主頁點擊 `Install` 安裝 Aliucord （右圖）
+  - 回到主頁點擊 `Install`安裝 Aliucord（右圖））
 
 ## 更進一步
 
 Aliucord 想要安裝 Plugins 和 Themes 不同於 Vendetta 系，需要在文件管理器中移動 Plugins 和 Themes 到指定文件夾，別受驚，很簡單。  
-首先你需要加入 Aliucord 的 [Discord 頻道](https://discord.com/invite/EsNDvBaHVU)才能開始下面的操作
+首先你需要加入 Aliucord 的 [Discord 頻道](https://discord.com/invite/EsNDvBaHVU) 才能開始下面的操作
 
 >在選擇 Plugins 和 Themes 的階段不必要切換到手機，可以先在桌面端下載全部需要的 Plugins 和 Themes 再傳送至手機對應文件夾
 
@@ -53,3 +53,4 @@ Aliucord 想要安裝 Plugins 和 Themes 不同於 Vendetta 系，需要在文�
 
   - 更多的選項可以點擊主題下方的蠟筆圖示進入，開始你的深層次客製化！「保存後根據提示 restart 即可生效」
   - 享受你的主題！
+  

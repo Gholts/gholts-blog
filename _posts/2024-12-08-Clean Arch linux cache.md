@@ -38,4 +38,3 @@ paru -Rns $(paru -Qtdq)
 ```bash
 paru -Rs <package_name>
 ```
-

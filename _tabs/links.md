@@ -11,8 +11,6 @@ order: 4
 | [旧梦 Blog](https://blog.izou.top/)            | [hai-zou](https://github.com/hai-zou)    |
 | [CoolCheng Blog](https://www.coolcheng.cn/)    | [coolcheng](https://www.coolcheng.cn/)   |
 
-
-
 ---
 
 #  申請 Link
@@ -31,8 +29,8 @@ order: 4
 >### 申請格式
 >```
 >網站 url:
->網站名字:
->網站頭像:
+>網站名字：
+>網站頭像：
 >```
 {: .prompt-tip }
 

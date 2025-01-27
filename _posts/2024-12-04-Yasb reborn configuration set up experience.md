@@ -61,4 +61,4 @@ If you have only one screen, you shoud delete *line 54 ~ line 92*
 
 ## 3.Enjoy
 
-第一次嘗試寫英文 blog，有什麽不太對的地方可以在評論指出来
+第一次嘗試寫英文 blog，有什麽不太對的地方可以在評論指出来。
