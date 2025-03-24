@@ -74,7 +74,7 @@ __最終只剩下 Windows 11 LTSC 和 IoT__。確切來說應該是分為 Enterp
 <li>IoT LTSC edition ISO&#39;s are available in English language only. You can install Non-IoT LTSC in another language and later install IoT LTSC key &gt; <code>CGK42-GYN6Y-VD22B-BX98W-J8JXD</code> in activation page in Windows settings to change the edition.</li>
 </ul>
 </blockquote>
-</details></br>
+</details>
 
 對於我來說，能過透過認證到 EEA 區域解鎖刪除 edge 的功能是十分重要的，所以我最後選擇了 Windows 11 Enterprise LTSC 2024 EN_US 版本。
 
