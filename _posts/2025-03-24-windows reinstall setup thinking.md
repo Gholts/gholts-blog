@@ -89,66 +89,90 @@ __最終只剩下 Windows 11 LTSC 和 IoT__。確切來說應該是分為 Enterp
 以下是我的備份列表
 
 <details><summary><strong>備份系統客製化配置</strong></summary>
+<ol>
+<li>(^///^)<ul>
+<li><a href="https://github.com/microsoft/terminal/releases/latest">Terminal</a><ul>
+<li><a href="https://draculatheme.com/windows-terminal">Profile Schemes</a><ul>
+<li><a href="https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono/releases/latest/download/JetBrainsMapleMono-NF-XX-HT.zip">JetBrains Maple Mono</a> - <a href="https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono">注意事項</a></li>
+</ul>
+</li>
+<li><a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows">Powershell</a></li>
+<li><a href="https://git-scm.com/downloads/win">Git</a></li>
+<li><a href="https://www.python.org/downloads/">Python</a></li>
+<li><a href="https://github.com/nikhil-swamix/TerminalProfileManager">Terminal Profile Manager</a></li>
+<li><a href="https://github.com/fastfetch-cli/fastfetch">Fastfetch</a> - <code>winget install fastfetch</code></li>
+<li><a href="https://starship.rs/zh-TW/guide/">Starship</a> - <code>winget install --id Starship.Starship</code></li>
+</ul>
+</li>
+<li><a href="https://windhawk.net/download">Windhawk 模組及配置</a></li>
+<li><a href="https://winaerotweaker.com/">WinaeroTweaker 設定</a></li>
+<li><a href="https://github.com/zhongyang219/TrafficMonitor/releases/latest">TrafficMonitor</a></li>
+<li><a href="https://github.com/xanderfrangos/twinkle-tray/releases/latest">Twinkle Tray</a></li>
+<li><a href="https://github.com/File-New-Project/EarTrumpet">EarTrumpet</a> - <code>winget install File-New-Project.EarTrumpet</code></li>
+<li><a href="https://www.flowlauncher.com/">Flow.Launcher</a></li>
+<li><a href="https://getsharex.com/">ShareX</a></li>
+<li><a href="https://github.com/RamonUnch/AltSnap/releases/latest">AltSnap</a></li>
+<li><a href="https://github.com/amir1376/ab-download-manager/releases/latest">AB Download Manager</a></li>
+<li><a href="https://github.com/microsoft/PowerToys/releases/latest">PowerToyz</a></li>
+<li><a href="https://github.com/MrBeanCpp/AltTaber/releases/latest">AltTaber</a></li>
+<li><a href="https://store.steampowered.com/about/">Wallpaper Engine</a></li>
+</ul>
+</li>
+</ol>
 
-1. (^///^)
-	- [Terminal](https://github.com/microsoft/terminal/releases/latest)
-		- [Profile Schemes](https://draculatheme.com/windows-terminal)
-			- [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono/releases/latest/download/JetBrainsMapleMono-NF-XX-HT.zip) - [注意事項](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
-		- [Powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows)
-		- [Git](https://git-scm.com/downloads/win)
-		- [Python](https://www.python.org/downloads/)
-		- [Terminal Profile Manager](https://github.com/nikhil-swamix/TerminalProfileManager)
-		- [Fastfetch](https://github.com/fastfetch-cli/fastfetch) - `winget install fastfetch`
-		- [Starship](https://starship.rs/zh-TW/guide/) - `winget install --id Starship.Starship`
-	- [Windhawk 模組及配置](https://windhawk.net/download)
-    - [WinaeroTweaker 設定](https://winaerotweaker.com/)
-	- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases/latest)
-	- [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray/releases/latest)
-	- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - `winget install File-New-Project.EarTrumpet`
-	- [Flow.Launcher](https://www.flowlauncher.com/)
-	- [ShareX](https://getsharex.com/)
-	- [AltSnap](https://github.com/RamonUnch/AltSnap/releases/latest)
-	- [AB Download Manager](https://github.com/amir1376/ab-download-manager/releases/latest)
-	- [PowerToyz](https://github.com/microsoft/PowerToys/releases/latest)
-	- [AltTaber](https://github.com/MrBeanCpp/AltTaber/releases/latest)
-	- [Wallpaper Engine](https://store.steampowered.com/about/)
 </details><details><summary><strong>備份常用軟體和配置</strong></summary>
+<ol>
+<li>(∪.∪ )...zzz<ul>
+<li><a href="https://github.com/Alex313031/Thorium-Win/releases/latest">Thorium</a></li>
+<li><a href="https://github.com/rime/weasel/releases/latest">Rime</a></li>
+<li><a href="https://www.bandisoft.com/bandizip/old/6/">Bandizip</a></li>
+<li><a href="https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/latest">Bulk Crap Uninstaller</a></li>
+<li><a href="https://diskanalyzer.com/download">Wiztree</a></li>
+<li><a href="https://github.com/d2phap/ImageGlass/releases/latest">ImageGlass</a></li>
+<li><a href="https://www.videolan.org/vlc/">Vlc</a></li>
+<li>[Spotify] - <code>iex &quot;&amp; { $(iwr -useb &#39;https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1&#39;) } -new_theme&quot;</code><ul>
+<li><a href="https://spicetify.app/docs/getting-started">Spicetify</a> - <code>iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex</code></li>
+</ul>
+</li>
+<li><a href="https://discord.com/download">Discord</a><ul>
+<li><a href="https://vencord.dev/download">Vencord</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/AyuGram/AyuGramDesktop/releases/latest">Ayugram</a></li>
+<li><a href="https://github.com/localsend/localsend/releases/latest">LocalSend</a></li>
+<li><a href="https://code.visualstudio.com/docs/?dv=win64">Visual Studio Code</a></li>
+<li><a href="https://github.com/Molunerfinn/PicGo/releases/latest">PicGo</a></li>
+<li><a href="https://pc.weixin.qq.com/?lang=en_US">Wechat</a><ul>
+<li><a href="https://github.com/zetaloop/BetterWX">BetterWX</a></li>
+</ul>
+</li>
+<li><a href="https://im.qq.com/pcqq/index.shtml">QQ</a><ul>
+<li><a href="https://t.me/bqqnt/63">Better-qqnt</a> - <a href="https://t.me/bqqnt/4">注意事項</a></li>
+</ul>
+</li>
+<li><a href="https://gravesoft.dev/office_c2r_links#chinese-traditional-zh-tw">Office</a></li>
+<li><a href="https://www.audacityteam.org/download/windows/">Audacity</a></li>
+<li><a href="https://kdenlive.org/zh/download-zh/">Kdenlive</a></li>
+<li><a href="https://www.gimp.org/downloads/">GIMP</a></li>
+<li><a href="https://github.com/Tichau/FileConverter/releases/latest">File Converter</a></li>
+<li><a href="https://obsproject.com/download">OBS</a></li>
+<li><a href="https://www.virtualbox.org/wiki/Downloads">Oracle VirtualBox</a></li>
+<li><a href="https://github.com/LizardByte/Sunshine/releases/latest">Sunshine</a></li>
+</ul>
+</li>
+</ol>
 
-2. (∪.∪ )...zzz
-	- [Thorium](https://github.com/Alex313031/Thorium-Win/releases/latest)
-	- [Rime](https://github.com/rime/weasel/releases/latest)
-	- [Bandizip](https://www.bandisoft.com/bandizip/old/6/)
-	- [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/latest)
-	- [Wiztree](https://diskanalyzer.com/download)
-	- [ImageGlass](https://github.com/d2phap/ImageGlass/releases/latest)
-	- [Vlc](https://www.videolan.org/vlc/)
-	- [Spotify] - `iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -new_theme"`
-		- [Spicetify](https://spicetify.app/docs/getting-started) - `iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex`
-	- [Discord](https://discord.com/download)
-		- [Vencord](https://vencord.dev/download)
-	- [Ayugram](https://github.com/AyuGram/AyuGramDesktop/releases/latest)
-	- [LocalSend](https://github.com/localsend/localsend/releases/latest)
-	- [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64)
-	- [PicGo](https://github.com/Molunerfinn/PicGo/releases/latest)
-	- [Wechat](https://pc.weixin.qq.com/?lang=en_US)
-		- [BetterWX](https://github.com/zetaloop/BetterWX)
-	- [QQ](https://im.qq.com/pcqq/index.shtml)
-		- [Better-qqnt](https://t.me/bqqnt/63) - [注意事項](https://t.me/bqqnt/4)
-	- [Office](https://gravesoft.dev/office_c2r_links#chinese-traditional-zh-tw)
-	- [ ] [Audacity](https://www.audacityteam.org/download/windows/)
-	- [ ] [Kdenlive](https://kdenlive.org/zh/download-zh/)
-	- [ ] [GIMP](https://www.gimp.org/downloads/)
-	- [File Converter](https://github.com/Tichau/FileConverter/releases/latest)
-	- [ ] [OBS](https://obsproject.com/download)
-	- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-	- [ ] [Sunshine](https://github.com/LizardByte/Sunshine/releases/latest)
 </details><details><summary><strong>其他檔案</strong></summary>
+<ol>
+<li><p>這個分類就是專門放所有的相片，影片等其他檔案。</p>
+<ul>
+<li><a href="https://prismlauncher.org/download/windows/">PrismLauncher</a></li>
+<li><a href="https://www.lunarclient.com/download">Lunar</a></li>
+<li>Library 庫檔案夾</li>
+</ul>
+</li>
+</ol>
 
-3. 這個分類就是專門放所有的相片，影片等其他檔案。
-
-	- [ ] [PrismLauncher](https://prismlauncher.org/download/windows/)
-	- [ ] [Lunar](https://www.lunarclient.com/download)
-	- Library 庫檔案夾
 </details>
 
 ## 1. 安裝系統
