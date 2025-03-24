@@ -90,7 +90,7 @@ __最終只剩下 Windows 11 LTSC 和 IoT__。確切來說應該是分為 Enterp
 
 <details><summary><strong>備份系統客製化配置</strong></summary>
 
-1. 
+1. (^///^)
 	- [Terminal](https://github.com/microsoft/terminal/releases/latest)
 		- [Profile Schemes](https://draculatheme.com/windows-terminal)
 			- [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono/releases/latest/download/JetBrainsMapleMono-NF-XX-HT.zip) - [注意事項](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
@@ -112,9 +112,9 @@ __最終只剩下 Windows 11 LTSC 和 IoT__。確切來說應該是分為 Enterp
 	- [PowerToyz](https://github.com/microsoft/PowerToys/releases/latest)
 	- [AltTaber](https://github.com/MrBeanCpp/AltTaber/releases/latest)
 	- [Wallpaper Engine](https://store.steampowered.com/about/)
-</details></br><details><summary><strong>備份常用軟體和配置</strong></summary>
+</details><details><summary><strong>備份常用軟體和配置</strong></summary>
 
-2. 
+2. (∪.∪ )...zzz
 	- [Thorium](https://github.com/Alex313031/Thorium-Win/releases/latest)
 	- [Rime](https://github.com/rime/weasel/releases/latest)
 	- [Bandizip](https://www.bandisoft.com/bandizip/old/6/)
@@ -142,14 +142,14 @@ __最終只剩下 Windows 11 LTSC 和 IoT__。確切來說應該是分為 Enterp
 	- [ ] [OBS](https://obsproject.com/download)
 	- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 	- [ ] [Sunshine](https://github.com/LizardByte/Sunshine/releases/latest)
-</details></br><details><summary><strong>其他檔案</strong></summary>
+</details><details><summary><strong>其他檔案</strong></summary>
 
 3. 這個分類就是專門放所有的相片，影片等其他檔案。
 
 	- [ ] [PrismLauncher](https://prismlauncher.org/download/windows/)
 	- [ ] [Lunar](https://www.lunarclient.com/download)
 	- Library 庫檔案夾
-</details></br>
+</details>
 
 ## 1. 安裝系統
 
