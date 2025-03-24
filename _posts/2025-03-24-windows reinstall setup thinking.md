@@ -1,5 +1,5 @@
 ---
-title: 
+title: 不簡單的 Windows 11 LTSC 安裝和客製化
 date: 2025-03-24
 categories: [Thinking]
 tags: [windows]
