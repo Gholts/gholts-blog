@@ -34,7 +34,7 @@ __最終只剩下 Windows 11 LTSC 和 IoT__。確切來說應該是分為 Enterp
 <tr>
 <td><strong>TPM / Secure boot / UEFI / 4GB RAM</strong></td>
 <td>All required</td>
-<td><a href="https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements">Not Required</a> 🎉 <br>Also not required by <a href="/windows_11_links">IoT Enterprise 24H2 (Non-LTSC)</a></td>
+<td><a href="https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements">Not Required</a> 🎉 <br>Also not required by <a href="https://massgrave.dev/windows_11_links">IoT Enterprise 24H2 (Non-LTSC)</a></td>
 </tr>
 <tr>
 <td><strong>Automatic Device Encryption</strong></td>
