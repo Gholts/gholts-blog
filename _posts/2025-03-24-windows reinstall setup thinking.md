@@ -252,6 +252,6 @@ __最終只剩下 Windows 11 LTSC 和 IoT__。確切來說應該是分為 Enterp
 ![](https://image.gholts.top/explorer_iqs7T29Ok5.jpg)
 ![](https://image.gholts.top/20250324104327747.png)
 ![](https://image.gholts.top/20250324104728200.png)
-![](https://image.gholts.top/20250324104203630.png)
+![](https://image.gholts.top/20250408090138266.png)
 ![](https://image.gholts.top/20250324104400532.png)
 ![](https://image.gholts.top/20250324104435026.png)
