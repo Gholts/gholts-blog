@@ -55,6 +55,8 @@ sudo usermod -aG input $(whoami)
 
 好了，readme 告訴我應該執行啟動指令碼了，但由於我移動了映象位置，我需要更改指令碼內容，順便重新分配一下系統資源。
 
+編輯`~/OSX-KVM/OpenCore-Boot.sh`
+
 更改系統資源
 ```sh
 ALLOCATED_RAM="6144" # MiB
@@ -67,7 +69,7 @@ CPU_THREADS="4"
 
 更改映像路徑，將`$REPO_PATH/mac_hdd_ng.img`替換為`/mnt/d/wsl/mac_hdd_ng.img`
 
-大功告成！儲存執行。
+大功告成！儲存執行`sudo ~/OSX-KVM/OpenCore-Boot.sh`。
 
 然後不出意料你會得到這個錯誤。
 
@@ -102,6 +104,8 @@ WSLg 執行後透過鍵盤選擇 base 系統使用`Disk Utility`工具格式化�
 返回上一級繼續`install macOS`，等待直到進入 MacOS 的導覽畫面，enjoy！
 
 ## 還有更多嗎
+
+事實上每次啟動都要 cd 到目錄，我為了偷懶就在 bashrc 中新增了`alias macos='cd ~/OSX-KVM/ && sudo ~/OSX-KVM/OpenCore-Boot.sh && cd ~'`，這樣就可以直接鍵入 macos 啟動系統。
 
 推薦透過 [OSX-Optimizer](https://github.com/sickcodes/osx-optimizer) 最佳化 MacOS 系統（按需選擇即可）。
 
