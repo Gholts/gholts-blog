@@ -1,8 +1,6 @@
 ---
 title: 美化你的 clash verge rev
 date: 2024-12-08
-categories: [Software Share]
-tags: [proxy, theme]
 ---
 ## ※ [Theme scheme 項目地址](https://github.com/Gholts/Clash-verge-theme)
 

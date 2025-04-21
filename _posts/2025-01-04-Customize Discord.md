@@ -1,8 +1,6 @@
 ---
 title: 客製化 Discord [ Desktop ]
 date: 2025-01-04
-categories: [Tutorial, Tools]
-tags: [discord]
 image:
   path: /assets/img/cute-logo.avif
   alt: Vencord cute-logo

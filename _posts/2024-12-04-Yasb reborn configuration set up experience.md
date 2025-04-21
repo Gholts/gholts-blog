@@ -1,8 +1,6 @@
 ---
 title: Yasb reborn configuration set up experience
 date: 2024-12-04
-categories: [Software Share]
-tags: [yasb]
 ---
 
 ## ※ [Yasb reborn repository](https://github.com/amnweb/yasb)

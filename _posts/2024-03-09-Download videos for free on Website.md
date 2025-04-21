@@ -1,8 +1,6 @@
 ---
 title: 利用 YT-DLP 下載幾乎任何影片
 date: 2024-03-09
-categories: [Tutorial, Tools]
-tags: [yt-dlp]
 ---
 
 ## ※ [YT-DLP 項目地址](https://github.com/yt-dlp/yt-dlp)

@@ -1,8 +1,6 @@
 ---
 title: Arch linux 清理空間
 date: 2024-12-08
-categories: [Tutorial]
-tags: [linux]
 ---
 
 ## ※ [Paru 項目地址](https://github.com/Morganamilo/paru)

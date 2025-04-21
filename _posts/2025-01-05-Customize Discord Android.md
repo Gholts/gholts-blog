@@ -1,12 +1,12 @@
 ---
 title: 客製化 Discord [ Android ]
 date: 2025-01-05
-categories: [Tutorial, Tools]
-tags: [discord]
 image:
   path: /assets/img/Aliucord.webp
   alt: Aliucord logo
 ---
+
+>作者不再使用 Android 裝置，故不會保證本篇內容持續有效。
 
 ## 繼上篇
 

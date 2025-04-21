@@ -1,8 +1,6 @@
 ---
 title: 利用 SpotDL 下載 Spotify 音樂
 date: 2024-03-05
-categories: [Tutorial, Tools]
-tags: [spotdl, spotify]
 ---
 
 ## ※ [SpotDL 項目地址](https://github.com/spotDL/spotify-downloader)
