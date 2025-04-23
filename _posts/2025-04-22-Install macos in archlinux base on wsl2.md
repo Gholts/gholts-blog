@@ -79,7 +79,6 @@ gtk initialization failed
 ```
 
 逛了一會兒論壇找到了修復的方法。
-先註釋掉`/etc/wsl.conf`中的`systemd=true`。但你也許需要 systemd 服務，跟著我做。
 在`/etc/systemd/system/wslg.service`新增如下內容
 ```bash
 [Unit]
