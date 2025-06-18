@@ -37,4 +37,4 @@ order: 4
 ### 申請管道
 
 - Gholtsmxv@Gholts.top
-- [Telegram 私信](https://t.me/Gholts_bot)
+- [Telegram 私信](https://t.me/Gholts0c)
